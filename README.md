@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more about python language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FranzoniLeo/Leonardo-Franzoni/edit/main/README.md]([https://github.com/FranzoniLeo/Leonardo-Franzoni/edit/main/README.md](https://github.com/FranzoniLeo))
+- 👨‍💻 All of my projects are available at [https://github.com/FranzoniLeo/Leonardo-Franzoni/edit/main/README.md]((https://github.com/FranzoniLeo))
 
 - 📫 How to reach me **franzoni.leoalves@gmail.com**
 
